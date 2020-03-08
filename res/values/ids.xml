@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="pairsum_leaderboard_id">CgkIuLHmlfYfEAIQDA</string>
+    
+    <string name="pairsum_achievement_id1">CgkIuLHmlfYfEAIQAA</string>
+    <string name="pairsum_achievement_id2">CgkIuLHmlfYfEAIQAQ</string>
+    <string name="pairsum_achievement_id3">CgkIuLHmlfYfEAIQAg</string>
+    <string name="pairsum_achievement_id4">CgkIuLHmlfYfEAIQAw</string>
+    <string name="pairsum_achievement_id5">CgkIuLHmlfYfEAIQBA</string>
+    <string name="pairsum_achievement_id6">CgkIuLHmlfYfEAIQBQ</string>
+    <string name="pairsum_achievement_id7">CgkIuLHmlfYfEAIQBg</string>
+    <string name="pairsum_achievement_id8">CgkIuLHmlfYfEAIQBw</string>
+    <string name="pairsum_achievement_id9">CgkIuLHmlfYfEAIQCA</string>
+    <string name="pairsum_achievement_id10">CgkIuLHmlfYfEAIQCQ</string>
+    <string name="pairsum_achievement_id11">CgkIuLHmlfYfEAIQCg</string>
+    <string name="pairsum_achievement_id12">CgkIuLHmlfYfEAIQCw</string>
+    <!-- 474508819355947 PROD GAME -->
+    <!-- 474578939348935 TEST GAME -->
+    <!-- 1572472726315106 PROD APP -->
+    <string name="app_id_fb">474578939348935</string>
+    <string name="app_id_gp">1096872990904</string>
+
+</resources>
